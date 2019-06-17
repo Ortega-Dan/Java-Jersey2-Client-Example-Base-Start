@@ -30,7 +30,7 @@ public class App {
 
         System.out.println("Response " + response.readEntity(String.class));
 
-        System.out.println(response.getStatus()); 
+        System.out.println(response.getStatus());
     }
 }
 
