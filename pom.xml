@@ -78,6 +78,8 @@
           <configuration>
             <archive>
               <manifest>
+                <addClasspath>true</addClasspath>
+                <classpathPrefix>lib/</classpathPrefix>
                 <mainClass>org.danort.restclient.App</mainClass>
               </manifest>
             </archive>
