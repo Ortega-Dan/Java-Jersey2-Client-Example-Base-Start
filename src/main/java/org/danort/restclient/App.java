@@ -1,4 +1,5 @@
-package com.ikno.test;
+package org.danort.restclient;
+
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
